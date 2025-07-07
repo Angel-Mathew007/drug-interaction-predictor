@@ -16,3 +16,4 @@ This project uses Graph Neural Networks (GNNs) to predict interactions between d
 - `model.py`, `utils.py` – GNN model and preprocessing
 - `ddi_dashboard.ipynb` – Submission notebook
 - `ddi_model.pt` – Trained PyTorch model
+![image](https://github.com/user-attachments/assets/aebba391-9496-4a9f-9b40-8e563a20de91)
