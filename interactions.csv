@@ -1,0 +1,3 @@
+drug1,drug2,risk_level,interaction_type,mechanism,significance,recommendations
+aspirin,warfarin,HIGH,Pharmacodynamic Interaction,Inhibits vitamin K metabolism,High bleeding risk,"Avoid combination\nMonitor INR\nUse gastroprotective agent"
+ibuprofen,aspirin,MEDIUM,Pharmacodynamic Interaction,Competes for platelet inhibition,Reduced antiplatelet effect,"Take ibuprofen 8 hours before aspirin\nMonitor bleeding"

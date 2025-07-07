@@ -1,0 +1,15 @@
+name,smiles
+aspirin,CC(=O)OC1=CC=CC=C1C(=O)O
+warfarin,CC(=O)CC(c1ccccc1)c1c(O)c2ccccc2oc1=O
+ibuprofen,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O
+paracetamol,CC(=O)NC1=CC=C(O)C=C1
+fluoxetine,CNCCC(Oc1ccc(C(F)(F)F)cc1)c1ccccc1
+metformin,CN(C)C(=N)N=C(N)N
+tramadol,CN(C)CC(O)C1=CC=CC=C1
+lisinopril,CC(C)C[C@H](C(=O)O)NC(=O)[C@H](CC1=CC=CC=C1)N
+simvastatin,CCC(C)C(C(=O)OC1CCC(C)(C)CC1)C1=CC=CC=C1
+clarithromycin,CC(C)CC(O)C1OC(C)C(O)C(OC2C(C(C(C(O2)C)O)O)O)C(=O)OC(C(C)C)C
+diphenhydramine,CN(C)CCOC(C1=CC=CC=C1)C1=CC=CC=C1
+caffeine,CN1C=NC2=C1C(=O)N(C(=O)N2C)C
+nicotine,CN1CCC[C@H]1c2cccnc2
+loratadine,CCOC(=O)N1CCC(CC1)C2=CC=C(C=C2)C3=CN=CC=C3
